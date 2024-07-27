@@ -3,6 +3,16 @@
 ### Overview
 In this project, you will use Spring Data JPA to power an Olympics analytics web app.
 
+## How to Start
+First clone this project and in the terminal type:
+```shell
+./mvnw spring-boot:run
+```
+Then, go to google and type localhost:3001 and you will see a frontend of Gold Medal Metrics that will show you medals based of the country,etc.
+
+The ResftulAPIs are created based on the Java Spring JPA structure including the Controller, Repositories and Models.
+
+
 ### Testing
 You can use cURL to manually test your API endpoints.
 
